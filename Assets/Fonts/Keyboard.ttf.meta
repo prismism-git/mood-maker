@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6a13cb702fe7a4df19c8ff8b67a16255
+timeCreated: 1495682082
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: .Keyboard
+  fontNames:
+  - .Keyboard
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
